@@ -1,0 +1,14 @@
+/* src/components/BookSearch.css */
+.book-search {
+    width: 100%;
+    max-width: 600px;
+    margin-bottom: 20px;
+  }
+  
+  .book-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  

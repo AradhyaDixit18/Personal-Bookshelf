@@ -1,0 +1,17 @@
+/* src/components/Bookshelf.css */
+.bookshelf {
+    width: 100%;
+    max-width: 600px;
+    text-align: left;
+  }
+  
+  .bookshelf-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .bookshelf-card {
+    width: 100%;
+  }
+  

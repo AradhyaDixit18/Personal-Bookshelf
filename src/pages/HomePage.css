@@ -1,0 +1,12 @@
+/* src/pages/HomePage.css */
+.home-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .bookshelf-button {
+    margin-top: 20px;
+  }
+  
